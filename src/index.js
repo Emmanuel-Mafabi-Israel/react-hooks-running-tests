@@ -1,0 +1,12 @@
+/*
+    GLORY BE TO GOD,
+    REACT HOOKS RUNNING TESTS,
+    BY ISRAEL MAFABI EMMANUEL
+*/
+
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App";
+import "./index.css";
+
+ReactDOM.render(<App />, document.getElementById("root"));

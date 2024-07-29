@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-07-29T07:55:25.454Z",
+    "end": "2024-07-29T07:55:29.369Z",
+    "duration": 3915
+  }
+}
