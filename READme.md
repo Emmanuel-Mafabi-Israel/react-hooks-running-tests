@@ -15,4 +15,4 @@ A sample Project entailing how react applications are tested using the test libr
 
 
 
-The Test above was testing the knowledge in understanding the React Framework (Library).
+The Test above was testing knowledge in understanding the React Framework (Library).
